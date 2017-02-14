@@ -1,0 +1,22 @@
+{
+  "name": "es20xx",
+  "version": "0.0.0",
+  "description": "A standard and reference implementation for JavaScript library authors and users",
+  "main": "es20xx.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ide/es20xx.git"
+  },
+  "keywords": [
+    "esnext"
+  ],
+  "author": "James Ide",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ide/es20xx/issues"
+  },
+  "homepage": "https://github.com/ide/es20xx#readme"
+}
